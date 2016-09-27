@@ -1,0 +1,24 @@
+{
+  "name": "plzdoc",
+  "version": "0.0.1",
+  "description": "ES6/JavaScript documentation generation without all the problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunjay/plzdoc.git"
+  },
+  "keywords": [
+    "documentation",
+    "generator",
+    "jsdoc"
+  ],
+  "author": "Sunjay Varma <sunjay.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunjay/plzdoc/issues"
+  },
+  "homepage": "https://github.com/sunjay/plzdoc#readme"
+}
